@@ -470,11 +470,11 @@ aside h4 {
 
 .nombre {
     color: #000;
-    top: 10%;
+    top: 5%;
     left: 50%;
     transform: translate(0%, 0%);
     text-align: center;
-    transform: translateY(-110%);
+    transform: translateY(-50%);
     opacity: 0;
     transition: opacity 0.5s ease;
     font-size: 80%;
